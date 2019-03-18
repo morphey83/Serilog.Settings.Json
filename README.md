@@ -1,8 +1,15 @@
 # Serilog.Settings.Json
 Serilog configuration with .json file (framework 4.5+)
 
-Configuration from .json file:
+## Intalling
+```
+Install-Package Serilog.Settings.Json
+```
 
+## Usage
+
+```c#
 new LoggerConfiguration()
-	.ReadFrom.Json("LogSettings.json")
+	.ReadFrom.Json("SerilogSettings.json")
 	.CreateLogger();
+```
