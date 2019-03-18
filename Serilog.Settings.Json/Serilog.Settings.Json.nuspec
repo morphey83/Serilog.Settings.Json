@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<package >
+  <metadata>
+    <!-- This will use the AssemblyName -->
+    <id>$id$</id>
+    <!-- This will use the AssemblyVersion -->
+    <version>$version$</version>
+    <title>Serilog.Settings.Json</title>
+    <description>Serilog.Settings.Json</description>
+    <authors>Bogdanov Anton</authors>
+    <owners>Bogdanov Anton</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <releaseNotes>Initial release.</releaseNotes>
+    <copyright>Copyright 2019</copyright>
+    <tags>Serilog,Settings,Json</tags>
+    <iconUrl>https://serilog.net/images/serilog-configuration-nuget.png</iconUrl>
+  </metadata>
+</package>
