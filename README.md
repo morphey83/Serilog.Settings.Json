@@ -1,7 +1,7 @@
 # Serilog.Settings.Json
 Serilog configuration with .json file (framework 4.5+)
 
-## Intalling
+## Installing
 ```
 Install-Package Serilog.Settings.Json
 ```
